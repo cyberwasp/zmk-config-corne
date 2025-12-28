@@ -1,0 +1,8 @@
+.vscode
+.venv
+.west
+build
+modules
+zephyr
+zmk-nice-oled
+zmk
